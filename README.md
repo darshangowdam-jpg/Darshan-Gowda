@@ -94,3 +94,6 @@ My goal is to build a strong foundation in **Cybersecurity and Python**, gain pr
 * GitHub: https://github.com/darshangowdam-jpg/Darshan-Gowda/edit/main/README.md
 * Email: darshangowdaru08@gmail.com
 *# Darshan-Gowda
+## Skills
+
+Python, C, SQL, Data Structures and Algorithms, Artificial Intelligence, Data Science, Git and GitHub.
