@@ -97,3 +97,6 @@ My goal is to build a strong foundation in **Cybersecurity and Python**, gain pr
 ## Skills
 
 Python, C, SQL, Data Structures and Algorithms, Artificial Intelligence, Data Science, Git and GitHub.
+## Projects
+
+I have worked on academic and personal projects involving Python programming, C programming, SQL databases, AI and Data Science, and web development.
