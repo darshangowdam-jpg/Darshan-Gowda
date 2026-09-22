@@ -100,3 +100,6 @@ Python, C, SQL, Data Structures and Algorithms, Artificial Intelligence, Data Sc
 ## Projects
 
 I have worked on academic and personal projects involving Python programming, C programming, SQL databases, AI and Data Science, and web development.
+## 🌐 Portfolio
+
+[View My Portfolio](https://darshangowdam-jpg.github.io/portfolio/)
